@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: False # NO MODIFICAR
+  about: False # NOa MODIFICAR
   education: False # NO MODIFICAR
 
   # Profile information
@@ -12,16 +12,16 @@ sidebar:
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  email: jose.angel.pacheco9729@gmail.com
+  phone: 6182789093
+  website: angelsm.dev
+  linkedin: joseangelsanchezmorales/
+  github: /angel-sm
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: /Pache99
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -40,6 +40,9 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
+    - item: Professional growing
+      link: # dejar en blanco
+    
     - item: Team Work
       link: # dejar en blanco
 
@@ -54,41 +57,16 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+    university: Instituto Tecnologico de Durango
+    time: 2015 Aug - 2021 Jan
+    details: Certified in web technologies
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Fullstack Developer
+    time: 2020 - Present
+    company: SOLEMTI
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -102,9 +80,9 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Fullstack Developer
+    time: 2019 - 2021
+    company: SERVICIOS TECNOLÓGICOS RUNASYS S.A. DE C.V.
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -123,7 +101,7 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
+      level: 40%
 
     - name: PyTorch
       level: 40%
