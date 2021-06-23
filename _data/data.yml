@@ -53,10 +53,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-  Hi, I am a Computer Systems Engineering student and passionate about technology and I love programming, 
-  I am fascinated by areas such as web development using MERN stack and movile applications using React Native,
-  I am an autodidact programmer, and I search profecional growing like a programmer,
-  I like to learn new things. I like the rain, dogs and coffee.
+    Hi, I am a Computer Systems Engineering student and passionate about technology and I love programming, 
+    I am fascinated by areas such as web development using MERN stack and movile applications using React Native,
+    I am an autodidact programmer, and I search profecional growing like a programmer,
+    I like to learn new things. I like the rain, dogs and coffee.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
