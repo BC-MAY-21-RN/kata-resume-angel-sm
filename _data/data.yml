@@ -27,13 +27,13 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: italian
+      level: Novice
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -53,8 +53,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+  Hi, I am a Computer Systems Engineering student and passionate about technology and I love programming, 
+  I am fascinated by areas such as web development using MERN stack and movile applications using React Native,
+  I am an autodidact programmer, and I search profecional growing like a programmer,
+  I like to learn new things. I like the rain, dogs and coffee.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Bachelor Degree
@@ -68,27 +70,15 @@ experiences:
     time: 2020 - Present
     company: SOLEMTI
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I'm fullstack in differents proyects for example some of those proyects was microservices using python that
+      communicate with external services in the backend  and in the front end i work building new layouts using CSS. 
 
   - role: Fullstack Developer
     time: 2019 - 2021
     company: SERVICIOS TECNOLÓGICOS RUNASYS S.A. DE C.V.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I built some applications using React.js, redux, hooks in frotend for the logic and Material.UI for the UI,
+      and these applications consumed an microservices builded in Node.js and Typescript deployed in AWS(ec2). 
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -103,20 +93,50 @@ skills:
     - name: Python
       level: 40%
 
-    - name: PyTorch
+    - name: Jest
       level: 40%
 
-    - name: Tensorflow
+    - name: Javascript
+      level: 60%
+    
+    - name: Node.js
+      level: 60%
+    
+    - name: React.js
+      level: 60%
+    
+    - name: React Native
+      level: 40%
+    
+    - name: AWS
+      level: 40%
+    
+    - name: Typescript
+      level: 40%
+    
+    - name: Redux
+      level: 60%
+    
+    - name: React Hooks
       level: 60%
 
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: Webpack
       level: 40%
+    
+    - name: MySQL
+      level: 60%
+    
+    - name: MongoDB
+      level: 60%
+    
+    - name: Github
+      level: 40%
+    
+    - name: CSS
+      level: 60%
+    
+    - name: HTML
+      level: 60%
 
 # NO MODIFICAR
 footer: >
